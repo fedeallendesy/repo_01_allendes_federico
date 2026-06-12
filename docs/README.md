@@ -10,5 +10,3 @@ Siguiendo la pauta, utilicé únicamente HTML semántico para estructurar el con
 
 La narrativa incluye párrafos descriptivos (`<p>`), listas ordenadas y no ordenadas (`<ul>`, `<ol>`) para resumir los hallazgos e hipótesis, enlaces externos (`<a>`) al DTPM, y la inserción de una imagen (`<img>`) que muestra la visualización de datos procesada en etapas anteriores del proyecto. Se agregaron atributos `id` y `class` para identificar las diferentes secciones.
 
-## Link del sitio publicado (GitHub Pages)
-[REEMPLAZA ESTE TEXTO CON TU LINK DE GITHUB PAGES]
